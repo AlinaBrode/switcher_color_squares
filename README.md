@@ -15,5 +15,5 @@
 
 # Screenshot
 
-![image](https://github.com/user-attachments/assets/2899e1c2-e1e2-4147-b2c6-3c8b14ae3bd3)
+![image](https://github.com/user-attachments/assets/bc9ef57c-a281-4cfb-98fb-e03e621587dc)
 
