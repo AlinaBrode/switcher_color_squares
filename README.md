@@ -12,6 +12,9 @@
 * difference between absolute px points and relative vh, vw units
   * use of percents for width and height
 * onClick attribute of button, details of setting callback functions on pure JS
+* use addEventListener to bind events with event-processing callbacks
+* put text with vertical orientation on a button
+  * if you don't want to have troubles, use nested span
 
 # Screenshot
 
