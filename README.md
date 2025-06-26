@@ -12,3 +12,8 @@
 * difference between absolute px points and relative vh, vw units
   * use of percents for width and height
 * onClick attribute of button, details of setting callback functions on pure JS
+
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/2899e1c2-e1e2-4147-b2c6-3c8b14ae3bd3)
+
