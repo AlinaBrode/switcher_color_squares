@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <script  src="code.js" defer></script>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <table style="border-collapse: collapse;">
+      <tr>
+        <td class="cell_style">
+          <div style="display: inline-block">
+            <div id="id_div_1" class="div_color" style="background-color: aqua;"></div>
+            <div style="display: flex;justify-content: space-between;"> 
+              <button onclick="setDiv1Aqua()" style="background-color: aquamarine;width: 50%;height: 3vh;"></button>
+              <button onclick="setDiv1Chart()" style="background-color: chartreuse;width: 50%;height: 3vh;"></button>
+            </div>
+          </div>
+        </td>
+
+        <td class="cell_style">
+          <div style="display: inline-block">
+            <div style="display: flex;justify-content: space-between;"> 
+              <button onclick="setDiv2Aqua()" style="background-color: aquamarine;width: 50%;height: 3vh;"></button>
+              <button onclick="setDiv2Chart()" style="background-color: chartreuse;width: 50%;height: 3vh;"></button>
+            </div>
+            <div id="id_div_2" class="div_color"  style="background-color: pink;"></div>
+          </div>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="cell_style">
+          <div style="display:flex">
+            <div style="display: flex;flex-direction: column; justify-content: space-between;"> 
+              <button onclick="setDiv3Aqua()" style="background-color: aquamarine; height: 50%;width: 3vh;"></button>
+              <button onclick="setDiv3Chart()" style="background-color: chartreuse;height: 50%;width: 3vh;"></button>
+            </div>
+            <div id="id_div_3" class="div_color"  style="background-color: yellow;"></div>
+          </div>
+        </td>
+  
+        <td class="cell_style">
+          <div style="display:flex">
+            <div id="id_div_4" class="div_color"  style="background-color: lemonchiffon;"></div>
+            <div style="display: flex;flex-direction: column; justify-content: space-between;"> 
+              <button onclick="setDiv4Aqua()" style="background-color: aquamarine; height: 50%;width: 3vh;"></button>
+              <button onclick="setDiv4Chart()" style="background-color: chartreuse;height: 50%;width: 3vh;"></button>
+            </div>
+          </div>
+        </td>
+      </tr>
+    </table>
+   
+
+  </body>
+</html>
