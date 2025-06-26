@@ -22,3 +22,9 @@ function setDiv4Aqua(){
 function setDiv4Chart(){
   document.querySelector("#id_div_4").style.backgroundColor="chartreuse"
 }
+
+const button1 = document.querySelector("#button_id1");
+button1.addEventListener("click", setDiv4Aqua);
+
+const button2 = document.querySelector("#button_id2");
+button2.addEventListener("click", setDiv4Chart);
